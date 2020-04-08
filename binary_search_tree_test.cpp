@@ -50,8 +50,7 @@ int main()
         std::cout << "Failed" << std::endl;
     }
 
-    testBSTree1.PreOrderPrint();
-    
+    testBSTree1.PreOrderPrint();    
 
     system("pause");
     return 0;
