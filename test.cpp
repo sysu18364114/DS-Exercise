@@ -1,8 +1,14 @@
 
 // 2020/4/1 //
 
+
 #include <iostream>
 #include <cstdlib>
+#include <iterator>
+#include <functional>
+
+using std::function;
+
 
 void test(int x)
 {
